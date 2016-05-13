@@ -42,3 +42,7 @@ build/
 
 # Signing files
 .signing/
+
+app/app.iml
+
+*.iml
